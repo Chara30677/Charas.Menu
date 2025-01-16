@@ -1,12 +1,3 @@
-
-  
-<p align="center">
-  <a href="#"><img src="https://i.imgur.com/aOzcbjM.png"></a>
-  <a href="#"><img src="https://i.imgur.com/W2ZjSPs.png"></a>
-</p>
-
----
-
 <p align="center">
 	<a href="https://discord.gg/GXsK5gcFJp"><img src="https://img.shields.io/badge/discord-11497%20online-blueviolet?style=for-the-badge"></a>
 </p>

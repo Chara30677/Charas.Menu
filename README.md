@@ -1,6 +1,9 @@
 <p align="center">
 	<a href="https://discord.gg/GXsK5gcFJp"><img src="![image](https://github.com/user-attachments/assets/aceb94f6-bb72-45f5-9c4f-0feaaa1a42b5)
 "></a>
+
+---
+ 
 </p>
 
 ---

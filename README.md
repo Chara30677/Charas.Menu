@@ -21,4 +21,10 @@ Yes, if you're following the GPL-3.0 license guidelines. If you're interested in
 - Drag the file `Charas-Menu.dll` to your plugins folder
 - Start Gorilla Tag if needed
 
+---
+
+Chara's version of ii's Stupid menu...
+
+---
+
 > This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2024 Another Axiom LLC.
